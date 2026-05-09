@@ -13,6 +13,7 @@ class SpringAppMavenDockerApplicationTests {
 	@Test
 	public void contextLoads() {
 		logger.info("Test case executing");
+		logger.info(("Test Case Executed second time..."));
 		assert(true);
 	}
 
