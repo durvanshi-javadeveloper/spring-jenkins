@@ -14,7 +14,6 @@ class SpringAppMavenDockerApplicationTests {
 	public void contextLoads() {
 		logger.info("Test case executing");
 		logger.info(("Test Case Executed second time..."));
-		logger.info("Testing Mulitple Environment");
 		assert(true);
 	}
 
